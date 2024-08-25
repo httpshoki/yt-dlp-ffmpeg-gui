@@ -12,5 +12,5 @@ A simple Python GUI for downloading and converting videos using `yt-dlp` and `FF
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/seu-usuario/yt-dlp-ffmpeg-gui.git
+   git clone https://github.com/httpshoki/yt-dlp-ffmpeg-gui.git
    cd yt-dlp-ffmpeg-gui
